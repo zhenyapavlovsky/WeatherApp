@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Roman Sorochak on 10.10.2023.
+  
+*/
+
+// MARK: HomeView
+
+"forecast_report" = "Forecast report";
+"cloudy" = "Cloudy";
+"wind" = "Wind";
+"hum" = "Hum";
+"today" = "Today";
+"retry" = "Retry";
+
+// MARK: DetailView
+
+"today" = "Today";
+"back" = "Back";
+"accuWeather" = "AccuWeather";
+"next_forecast" = "Next Forecast";
+
+// MARK: MapScreen
+
+"serach_text" = "Search here";
+"recent_search" = "Recent search";
+
